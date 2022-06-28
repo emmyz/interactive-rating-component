@@ -20,12 +20,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Rating State](./screenshot1.png)
+![Thank You State](./screenshot2.png)
 
 ### Links
 
-- Project URL: [Interactive Rating Component](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Project URL: [Interactive Rating Component](https://emmyz.github.io/interactive-rating-component/)
 
 ### Built with
 
