@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Rating State](./screenshot1.png)
-![Thank You State](./screenshot2.png)
+![Rating State](./screenshot1.PNG)
+![Thank You State](./screenshot2.PNG)
 
 ### Links
 
